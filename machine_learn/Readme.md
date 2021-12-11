@@ -1,6 +1,16 @@
-# 一个完整的机器学习模型的流程
+# 浅谈深度学习：一个完整的机器学习模型的流程
+
+* 总包含文章：
+  * [一个完整的机器学习模型的流程](https://blog.csdn.net/linxinloningg/article/details/121685647)
+  * [浅谈深度学习：了解RNN和构建并预测](https://blog.csdn.net/linxinloningg/article/details/121881042)
+  * [浅谈深度学习：基于对LSTM项目`LSTM Neural Network for Time Series Prediction`的理解与回顾](https://blog.csdn.net/linxinloningg/article/details/121881068)
+  * [浅谈深度学习：LSTM对股票的收益进行预测（Sequential 序贯模型，Keras实现）](https://blog.csdn.net/linxinloningg/article/details/121881117)
+
+### 前言：
 
 机器学习作为人工智能的一个分支，在金融行业得到广泛的应用。然而，多数金融服务企业缺乏对机器学习价值的深入了解，其原因除了企业对机器学习缺乏深入的了解，对其价值抱有不切实际的期望，或者因为机器学习的研究和开发太高而望而却步，数据科学家和机器学习专家短缺也是重要的原因。在机器学习的推广方面，老企业因为需要更新数据和IT架构，推广力度和研发进度往往缺乏动力。
+
+#### 代码仓库：[machine_learn](https://github.com/linxinloningg/lstm_learn_test/tree/main/machine_learn)
 
 本文介绍建立机器学习模型的主要步骤。
 
