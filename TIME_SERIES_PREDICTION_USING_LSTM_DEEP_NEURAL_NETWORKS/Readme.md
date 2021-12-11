@@ -2,6 +2,13 @@
 
 # 浅谈深度学习：基于对LSTM项目`LSTM Neural Network for Time Series Prediction`的理解与回顾，构建属于自己的LSTM测试代码
 
+>#### 总包含文章：
+>
+>* [一个完整的机器学习模型的流程](https://blog.csdn.net/linxinloningg/article/details/121685647)
+>* [浅谈深度学习：了解RNN和构建并预测](https://blog.csdn.net/linxinloningg/article/details/121881042)
+>* [浅谈深度学习：基于对LSTM项目`LSTM Neural Network for Time Series Prediction`的理解与回顾](https://blog.csdn.net/linxinloningg/article/details/121881068)
+>* [浅谈深度学习：LSTM对股票的收益进行预测（Sequential 序贯模型，Keras实现）](https://blog.csdn.net/linxinloningg/article/details/121881117)
+>
 >## 前言
 >
 >根据之前RNN的学习，我们还了解到了可以称作为RNN的加强版，至于有多强，我们可以通过一篇文章先去阅读理解和感慨一下：["TIME SERIES PREDICTION USING LSTM DEEP NEURAL NETWORKS"](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
@@ -29,7 +36,7 @@
 >>### 实验一：正弦波预测
 >
 >>模型需要的数据在sinewave.csv  文件中
->>
+>
 >>![1](Readme.assets/1.png)
 >
 >>预测结果：
